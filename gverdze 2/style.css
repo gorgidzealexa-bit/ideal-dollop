@@ -1,0 +1,37 @@
+body{
+background-color:  hsl(233, 47%, 7%);
+justify-items: center;
+}
+table tr th{
+    font-size: 35px;
+    color: white;
+    padding: 27px;
+}
+h2{
+    font-size: 50px;
+    color: white;
+}
+p{
+    font-size: 30px;
+    color:hsla(0, 0%, 100%, 0.6);
+}
+.warw{
+    width: 700px;
+    background-color: hsl(244, 37%, 16%);
+    height: 500px;
+    text-align: center;
+    border-radius: 10px;
+   
+}
+.poto img{
+    width: 700px;
+    height: 500px;
+    border-radius: 10px;
+ 
+   
+}
+.dedadivi{
+    display: flex;
+    padding-top: 400px;
+    
+}

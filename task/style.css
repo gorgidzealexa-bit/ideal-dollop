@@ -1,0 +1,65 @@
+h1{color: brown;
+    font-size: 30px;
+}
+.btn1{
+    font-size: 100px;
+    height: 300px;
+    width: 200px;
+    border: none;
+    border-radius: 15px;
+    background-color: darkgreen;
+
+
+}
+h4{
+    color: black;
+    font-size: 15px;
+}
+.btn2{color: bisque;
+    font-size: 100px;
+    height: 350px;
+    width: 200px;
+border: none;
+border-radius: 15px;
+background-color: bisque;
+}
+h2{
+    color: black;
+    font-size: 50px;
+}
+.btn3{font-size: 15px;
+    height: 40px;
+    width: 100px;
+    border: none;
+    border-radius: 15px;
+    background-color: blue;
+color: aquamarine;
+}
+.btn4{
+    font-size: 15px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    background-color: black;
+    color: aliceblue;
+    width: 100px;
+
+}
+.btn5{
+    font-size: 15px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    background-color: bisque;
+    color: blueviolet;
+    width: 100px;
+}
+.ins{
+    font-size: 15px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    background-color: darkorchid;
+    color: white;
+    text-decoration: none;
+}

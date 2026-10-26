@@ -1,0 +1,15 @@
+body{
+    background-color: hsl(212, 45%, 89%);
+    text-align: center;
+}
+.container{
+    background-color: hsl(0, 0%, 100%);
+    width: 300px;
+    border-radius: 10px;
+    justify-self: center;
+}
+.container img{
+    width: 280px;
+    height: 280px;
+    border-radius: 10px;
+}

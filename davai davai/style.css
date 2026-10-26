@@ -1,0 +1,58 @@
+body{
+background-color: grey;
+}
+.text{
+    width: 1000px;
+    display: flex;
+    gap: 200px;
+  
+}
+.gver{
+   width: 150px;
+    background-color: white;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    color: black;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.ravi{
+    width: 300px;
+    display: flex;
+}
+.pirveli{
+    width: 250px;
+    background-color: lightpink;
+    border-radius: 15px;
+
+}
+.cale{
+    width: 60px;
+    height: 60px;
+    border-radius: 50px;
+    border: none;
+    
+}
+.j{
+    width: 100px;
+    height: 40px;
+    border-radius: 15px;
+    border: none;
+}
+.meore{
+    width: 250px;
+    background-color: white;
+    border-radius: 15px;
+}
+.jj{
+    width: 100px;
+    height: 40px;
+    border: none;
+    border-radius: 15px;
+    background-color: lightpink;
+}
+.dedadivi{
+    display: flex;
+    gap: 150px;
+}

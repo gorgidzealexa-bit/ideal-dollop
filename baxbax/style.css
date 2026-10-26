@@ -1,0 +1,48 @@
+body{
+    justify-items: center;
+    background-color: cornflowerblue;
+}
+.pirveli{
+    width: 220px;
+    background-color: lightgray;
+    height: 350px;
+    border-radius: 15px;
+    
+}
+.shavi{
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    background-color: black;
+    color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.meore{
+    width: 220px;
+    background-color: black;
+    height: 350px;
+    border-radius: 15px;
+    color: white;
+}
+.tetri{
+    width: 200px;
+    height: 30px;
+    border-radius: 15px;
+    border: none;
+    background-color: white;
+    font-size: 20px;
+    font-weight: bolder;
+}
+.mesame{
+    width: 220px;
+    background-color: lightgray;
+    height: 350px;
+    border-radius: 15px;
+}
+.dedadivi{
+    display: flex;
+    gap: 20px;
+    padding-top: 150px;
+}

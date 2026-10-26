@@ -1,0 +1,34 @@
+body{
+    background-color: hsl(30, 54%, 90%);
+}
+.container{
+    width: 600px;
+    background-color:hsl(0, 0%, 100%);
+    border-radius: 10px;
+    
+
+}
+.imgs .img1{
+    width: 500px;
+    padding:6px 50px;
+    border-radius: 10px;
+    
+   
+}
+.main{
+    width: 400px;
+    background-color: hsl(330, 100%, 98%);
+}
+.iasa{
+    color: hsl(332, 51%, 32%);
+    border-radius: 10px;
+}
+.A{
+    color: hsl(14, 45%, 36%);
+}
+.B{
+    color: hsl(14, 45%, 36%);
+}
+.C{
+    color: hsl(14, 45%, 36%);
+}

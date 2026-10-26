@@ -1,0 +1,17 @@
+body{
+    display: flex;
+    justify-content: center;
+}
+.container{
+    background-color:darkgreen;
+    width: 200px;    
+    text-align: center;
+    border-radius: 15px;
+}
+.btn1{
+    width: 100px;
+    height: 35px;
+    border: none;
+    border-radius: 8px;
+    background-color: lightgreen;
+}

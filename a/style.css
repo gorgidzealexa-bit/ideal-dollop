@@ -1,0 +1,39 @@
+.btn1{
+    width: 200px;
+    height: 40px;
+    color: blueviolet;
+    background-color: black;
+    border: none;
+    border-radius: 5px;
+    font-size: 15px;
+}
+
+
+
+
+.btn2{
+    width: 350px;
+    height: 60px;
+    color: aqua;
+    background-color: brown;
+    border: none;
+    border-radius: 15px;
+    font-size: 25px;
+}
+
+
+
+
+
+
+body{background-image: url(Jupiter_OPAL_2024.png.webp) ;
+    background-size: cover;
+    background-position: 5px;
+
+
+
+    
+}
+h1{
+    color: brown;
+}
